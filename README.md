@@ -10,3 +10,6 @@
 - https://github.com/rokoroku/react-redux-typescript-boilerplate - react-ts-redux
 - https://github.com/vikpe/react-webpack-typescript-starter - react-ts-webpack
 - https://github.com/microsoft/TypeScript-React-Starter - react, redux, typescript
+
+
+![](test.gif)
